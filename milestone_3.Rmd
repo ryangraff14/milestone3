@@ -44,7 +44,7 @@ https://www.basketball-reference.com/draft/NBA_2013.html
 
 etc.
 
-This data comes from basketball-reference.com.  I have done nothing with it yet as it is proving very difficult to import.  This data includes draft position and career stats.
+This data comes from basketball-reference.com.  I have done nothing with it yet as it is proving very difficult to import.  This data includes draft position and career stats.  I am going to continue to try to import this data since it comes with career stats, but may transition to using Wikipedia if this proves to difficult.
 
 I will also be seeking data from https://stats.nba.com/ in order to get data on all current NBA players.
 
