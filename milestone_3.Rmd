@@ -41,9 +41,16 @@ https://www.basketball-reference.com/draft/NBA_2015.html
 https://www.basketball-reference.com/draft/NBA_2014.html
 
 https://www.basketball-reference.com/draft/NBA_2013.html
+
 etc.
 
-Additional Data I think is gonna come from fivethirtyeight, as I believe they have some advanced basketball performance measures that I want to investigate and potentially incorporate.
+This data comes from basketball-reference.com.  I have done nothing with it yet as it is proving very difficult to import.  This data includes draft position and career stats.
+
+I will also be seeking data from https://stats.nba.com/ in order to get data on all current NBA players.
+
+Additional data may come from fivethirtyeight, as I believe they have some advanced basketball performance measures that I want to investigate and potentially incorporate.
+
+
 
 # So what am I going to do with it all?
 
